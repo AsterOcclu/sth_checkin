@@ -1,1 +1,1 @@
-undetected-chromedriver
+git+https://www.github.com/ultrafunkamsterdam/undetected-chromedriver@master
